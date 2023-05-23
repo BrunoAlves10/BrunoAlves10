@@ -7,6 +7,6 @@ You can click the Preview link to take a look at your changes.
 <div align="center"> 
   
  
-![Snake animation](https://github.com/19loren/19loren/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BrunoAlves10/BrunoAlves10/blob/output/github-contribution-grid-snake.svg)
  
 </div>
