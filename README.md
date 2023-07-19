@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou o Bruno
 - Sou estudante de Engenharia de Software
-- Linguagens ja vistas:
+- Linguagens e tecnologias ja vistas:
 - Python
 - C
 - Kotlin
