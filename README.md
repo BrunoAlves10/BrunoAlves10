@@ -6,8 +6,10 @@
 - Kotlin
 - Flutter
 - HTML/CSS
+- JavaScript
+- TypeScript
 - React
-- SQL (Oracle)
+- SQL
 - MongoDB
 - Figma
 <!---
