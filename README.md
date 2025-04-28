@@ -9,6 +9,7 @@
 - JavaScript
 - TypeScript
 - React
+- Java
 - SQL
 - MongoDB
 - Figma
